@@ -1,0 +1,396 @@
+*{
+    background-color: #0f0f10;
+    color: #ffffff;
+    outline: 0;
+    font-family: "Poppins", sans-serif;
+}
+.first-content-left{
+    display: flex;
+    flex-direction: column;
+   margin-left: 300px;
+   list-style: none;
+}
+.beatsLogo-resize{
+    margin-top: 40px;
+    margin-left: -100px;
+}
+.black-resize{
+    margin-top: -150px;
+    height: 500px;
+    width: 220px;
+}
+.set-navbar{
+    margin-top: -420px;
+    margin-left: 700px;
+    display: flex;
+}
+nav ul{
+    display: flex;
+    gap: 60px;
+   list-style: none;
+  font-weight: 700;
+}
+button{
+    margin-left: 80px;
+    margin-top: 7px;
+    padding: 2px 40px;
+    font-size: 15px;
+    background-color: #2c2929;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+
+}
+.onEarImg{
+    margin-left: 700px;
+    margin-top: 100px; 
+}
+.onEarImg-content{
+    margin-left: 650px;
+    margin-top: 100px; 
+}
+div h1{
+font-size: 50px;
+margin-top: -90px;
+}
+div p{
+    width: 65%;
+    font-size: 12px;
+    font-weight: 300;
+    color: #bdc0c2;
+    line-height: 25px;
+    margin-bottom: 25px;
+}
+.Shoping-bag{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background: #1e1e21;
+    border-radius: 8px;
+    width: fit-content;
+    padding: 1px 20px;
+    height: 40px;
+    width: 200px;
+}
+.adjust-background{
+    margin-top: 25px;
+    background-color: #1e1e21;
+    font-size: 13px;
+    color: white;
+}
+div span{
+    background-color: #1e1e21;
+}
+.first-section-social-media{
+    scale: 0.8;
+    display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  position: relative;
+  top: 100px;
+  margin-bottom: 40px; 
+}
+
+/* designign product specification portion */
+
+.specification-logo{
+    margin-top: 200px;
+   margin-left: 700px;
+}
+.specification-discription{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.specification-discription img{
+    scale: 0.8;
+}
+.blutooth p{
+margin-top: -5px;
+color: white;
+}
+.blutooth p:last-child{
+    margin-top: -30px;
+    color: #bdc0c2;
+}
+.battery p{
+    margin-top: -5px;
+    color: white;
+   
+    }
+    .battery p:last-child{
+        margin-top: -30px;
+        color: #bdc0c2;
+    }
+    .load p{
+        margin-top: -5px;
+        color: white;
+        }
+        .load p:last-child{
+            margin-top: -30px;
+            color: #bdc0c2;
+        }
+        .microphone p{
+            margin-top: -5px;
+            color: white;
+            }
+            .microphone p:last-child{
+                margin-top: -30px;
+                color: #bdc0c2;
+            }
+            .beautify{
+                margin-left: -50px;
+            }
+
+            /* designing third portion of the websites */
+
+            .Third-section{
+                margin-left: 670px;
+                margin-top: 100px;
+            }
+            .Third-section-main{
+                display: flex;
+                margin-top: 50px;
+                margin-left: 500px;
+            }
+            .Third-section-left img{
+               height: 350px;
+               width: 250px;
+               margin-top: 20px;
+            }
+
+            .Third-section-right p{
+                margin-top: 110px;
+                margin-left: 50px;
+                height: 100px;
+                width: 200px;
+            }
+            
+         
+           .Third-section-right p:last-child img{
+             scale: 0.8;
+           }
+           .Third-section-right p:last-child{
+            height: 20px;
+            width: fit-content;
+            background: #1e1e21;
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            font-size: 12px;
+            padding: 10px 10px;
+            margin-top: -10px;
+            color: white;
+           }
+
+/* designing fourth section */
+
+
+           .fourth-section{
+            display: flex;
+            margin-left: 250px;
+            gap: 100px;
+            margin-top: 200px;
+            background-color: #1e1e21;
+            height: 200px;
+            width: 800px;
+            padding: 100px;
+           }
+           .fourth-section-left{
+            height: 100px;
+            width: 600px;
+            background-color: #1e1e21;
+           }
+           .fourth-section-left p{
+            font-size: 15px;
+           }
+           .be-straight{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            background-color:black;
+            color: white;
+            height: 50px;
+            width: 180px;
+            border-radius: 10px;
+            
+           }
+           .be-straight button{
+            margin-top: -2px;
+          
+           }
+           .be-straight img{
+            margin-left: 10px;
+           }
+           .button{
+            background-color: black ;
+            margin-left: -10px;
+            font-size: 13px;
+            width: max-content;
+           }
+
+           .fourth-section-right{
+            margin-right: 300px;
+           }
+           .fourth-section-right img{
+            background-color: #1e1e21;
+           }
+           .fourth-section-left h2 {
+            background-color: #1e1e21;
+            height: 100px;
+            width: 300px;
+           }
+           .fourth-section-left p{
+            background-color: #1e1e21;
+           }
+
+           /* designing fifth section top */
+
+         .fifth-section{
+            display: flex;
+            flex-direction: column;
+            margin: 0 350px;
+         }
+         .resize-fifth-section-top{
+            display: flex;
+            flex-direction: column;
+            scale: 0.3;
+         }
+         .fifth-section-bottom{
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 50px;
+            padding-left: 50px;
+         }
+         .product-outlook{
+            position: relative;
+            width: 130px;
+            height: 130px;
+            background: #252627;
+            border-radius: 8px;
+         }
+         .product-image {
+            width: 75px;
+            height: 100px;
+            position: absolute;
+            z-index: 1000;
+             top: -40px;
+            left: 28px;
+          }
+          .product-image,
+          .product-outlook img,
+          .product-outlook p,
+          .product-outlook span,
+          .product-outlook div {
+           background-color: transparent;
+          }
+          .specification{
+         position: absolute;
+         margin-top: 33px;
+         width: 80%;
+         display: flex;
+         align-items: flex-end;
+         justify-content: space-between;
+         padding: 10px 15px; 
+          }
+          .specification p  {
+            font-size: 10px;
+            margin-top: 40px;
+            font-weight: 700;
+          }
+          .specification p span {
+            color: #bdc0c2;
+          }
+          .specification div{
+            /* background: #0a0a0b; */
+            border-radius: 8px;
+            padding: 2px 6px;
+          }
+          .specification div img {
+             margin-bottom: 30px;
+             width: 18px;
+             height: 18px;
+          }
+
+
+          /* designign footer portion */
+
+          .footer-section{
+            display: flex;
+            gap: 100px;
+            align-items: center;
+            justify-content: center;
+            margin: 100px;
+            margin-left: 230px;
+          }
+          .footer-section img{
+            margin-top: -8%;
+            scale: 0.8;
+          }
+          .navigation li a {
+            text-decoration: none;
+            font-size: 12px;
+            color: #bdc0c2;
+          }
+          .navigation li{
+            list-style: none;
+          }
+          .support-navigation li a{
+            text-decoration: none;
+            font-size: 12px;
+            color: #bdc0c2;
+          }
+          .support-navigation li{
+            list-style: none;
+          }
+          .email-portion input {
+           height: 40px;
+           width: 300px;
+           background-color: #2c2929;
+           border-radius: 8px;
+           border: none;
+          }
+          .email-portion div{
+            display: flex;
+            align-items: center;
+            justify-content: center ;
+            margin-left: 160px;
+            margin-top: -45px;
+            gap: 20px;
+          }
+         .subscribe-button p{
+            background-color: red;
+         }
+         .subscribe-button img{
+            background-color: #2c2929;
+         }
+            
+           
+          
+          .email-portion div p{
+            text-align: center;
+            border-radius: 5px;
+            color: white;
+          }
+          .navigation div li a{
+            font-size: 18px;
+            font-size: 800;
+            color: white;
+          }
+         .support-navigation div li a{
+            font-size: 18px;
+            font-size: 800;
+            color: white;
+         }
+          .social-media{
+            display: flex;
+           margin-top: 150px;
+           margin-left: -330px;
+           scale: 1.0;
+           gap: 20px;
+          }
+          
